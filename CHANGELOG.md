@@ -7,3 +7,7 @@
 ## 0.0.2
 
 -   Ok, ok, fixing screenshot base url
+
+## 0.0.3
+
+-   There is not 2 without a 3, fixing screenshot base url
