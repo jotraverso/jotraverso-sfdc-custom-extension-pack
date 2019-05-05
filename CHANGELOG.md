@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.0.5
+
+-   And go on fixing content and images base url for github
+
 ## 0.0.4
 
 -   And go on fixing content and images base url for github
