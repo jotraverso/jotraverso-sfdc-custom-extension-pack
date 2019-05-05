@@ -1,32 +1,36 @@
 {
-    "name": "salesforce-vscode-custom-extension-pack",
-    "displayName": "Salesforce VSCode Custom Extension pack",
-    "description": "VSCode extensions which helps to Salesforce developers",
-    "publisher": "JOTraverso",
-    "author": {
-        "name": "Jorge Ortega Traverso",
-        "url": "https://saiyandev.com",
-        "email": "jotraverso@gmail.com"
-    },
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.33.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionPack": [
-        "ChakrounAnas.turbo-console-log",
-        "CoenraadS.bracket-pair-colorizer",
-        "eamodio.gitlens",
-        "ecmel.vscode-html-css",
-        "esbenp.prettier-vscode",
-        "formulahendry.auto-rename-tag",
-        "hnw.vscode-auto-open-markdown-preview",
-        "JohnAaronNelson.forcecode",
-        "LaurentTreguier.uncrustify",
-        "letrieu.turbo-console-log-fork",
-        "oderwat.indent-rainbow",
-        "xabikos.JavaScriptSnippets"
-    ]
+	"name": "salesforce-vscode-custom-extension-pack",
+	"displayName": "Salesforce VSCode Custom Extension pack",
+	"description": "VSCode extensions which helps to Salesforce developers",
+	"publisher": "JOTraverso",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jotraverso/jotraverso-sfdc-custom-extension-pack"
+	},
+	"author": {
+		"name": "Jorge Ortega Traverso",
+		"url": "https://saiyandev.com",
+		"email": "jotraverso@gmail.com"
+	},
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.33.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"extensionPack": [
+		"ChakrounAnas.turbo-console-log",
+		"CoenraadS.bracket-pair-colorizer",
+		"eamodio.gitlens",
+		"ecmel.vscode-html-css",
+		"esbenp.prettier-vscode",
+		"formulahendry.auto-rename-tag",
+		"hnw.vscode-auto-open-markdown-preview",
+		"JohnAaronNelson.forcecode",
+		"LaurentTreguier.uncrustify",
+		"letrieu.turbo-console-log-fork",
+		"oderwat.indent-rainbow",
+		"xabikos.JavaScriptSnippets"
+	]
 }
